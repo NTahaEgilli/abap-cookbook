@@ -1,4 +1,3 @@
-``` abap
 *&---------------------------------------------------------------------* 
 *&  Include  zsolid_report_c01
 *&---------------------------------------------------------------------* 
@@ -140,5 +139,4 @@ CLASS lcl_event_handler IMPLEMENTATION.
   METHOD on_line_click. 
 
   ENDMETHOD. 
-ENDCLASS. 
-```
+ENDCLASS.
